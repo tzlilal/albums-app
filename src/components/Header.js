@@ -18,11 +18,10 @@ const styles = {
         alignItems: 'center', 
         height: 60, 
         shadowColor: '#000', 
-        shadowOffset: {width: 0, height: 100}, 
+        shadowOffset: {width: 0, height: 10}, 
         shadowOpacity: 0.2, 
-        elevation: 12, 
-        position: 'relative', 
-        marginBottom: 12
+        elevation: 5, 
+        position: 'relative'
     },
     textStyle: {
         fontSize: 20, 
